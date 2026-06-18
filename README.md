@@ -1,4 +1,4 @@
-# Hi hi ^v^
+# Hi hi!
 
 I'm currently working through ~~different audio programming projects~~ my masters in Biomedical Engineering! I have been focussing on telesurgery through the use of VR and dexterous robotics, and am looking to graduate come January 2027.
 
