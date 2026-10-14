@@ -1,6 +1,6 @@
 # Hi hi!
 
-I'm currently working through ~~different audio programming projects~~ my masters in Biomedical Engineering! I have been focussing on telesurgery through the use of VR and dexterous robotics, and am looking to graduate come January 2027.
+I'm currently working through ~~different signal and data projects~~ my masters in Biomedical Engineering! I have been focussing on telesurgery through the use of VR and dexterous robotics, and am looking to graduate come January 2027.
 
 IN THE MEANTIME, I am continuing some trickle audio work with things like [Silly Sounds](https://github.com/loparcog/SillySounds) and a few other things I am hoping to roll out soon.
 
