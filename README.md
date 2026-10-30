@@ -1,4 +1,4 @@
-# Hi hi!
+# Hi, Hello, Happy Fall! 👋 🍂
 
 I'm currently working through ~~different signal and data projects~~ my masters in Biomedical Engineering! I have been focusing on telesurgery through the use of VR and dexterous robotics, and am looking to graduate come January 2027.
 
